@@ -13,6 +13,14 @@ Python
 * Clone Project
 
 `https://github.com/QuinMcNamara/AdventureGame.git`
+
 * Open Terminal
 * Navigate to directory containing game file
 * Run game on terminal
+
+`python3 adventure_game2.py`
+
+
+### License
+
+AdventureGame is MIT Licensed
