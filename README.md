@@ -11,6 +11,7 @@ Python
 
 ## How to Play
 * Clone Project
+
 `https://github.com/QuinMcNamara/AdventureGame.git`
 * Open Terminal
 * Navigate to directory containing game file
